@@ -1,0 +1,11 @@
+[package]
+name = "rqxl"
+version = "0.0.1"
+authors = ["Andrew <andrew@subarctic.org>"]
+license = "MIT OR Apache-2.0"
+description = "Macro-based Query Language and ORM"
+edition = "2018"
+readme = "README.md"
+repository = "https://github.com/andrew-johnson-4/rqxl"
+documentation = "https://docs.rs/rqxl/"
+keywords = ["dsl","orm","macro","query","builder"]
